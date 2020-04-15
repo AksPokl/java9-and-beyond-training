@@ -1,4 +1,4 @@
-package com.java.training;
+package com.modernjava.training;
 
 record Product(int id, String name) {
 }
