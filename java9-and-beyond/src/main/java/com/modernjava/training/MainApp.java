@@ -1,4 +1,4 @@
-package main.java.com.modernjava.training;
+package com.modernjava.training;
 
 import java.time.DayOfWeek;
 import java.time.LocalDate;
