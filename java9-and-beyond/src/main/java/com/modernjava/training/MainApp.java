@@ -38,7 +38,7 @@ public class MainApp {
     private static List<Product> createProducts() {
         List<Product> products = new ArrayList<>();
         for (var i = 0; i < 5; i++) {
-            var name = "Product " + i;
+            var name = "com.modernjava.training.Product " + i;
             Product product = new Product(i, name);
             products.add(product);
         }
